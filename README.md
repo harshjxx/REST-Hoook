@@ -1,8 +1,8 @@
 
-Zapier Webhook Integration
+REST Hook Integration
 ==========================
 
-This is a Node.js application that provides webhook integration for Zapier. It allows subscribing, unsubscribing, and triggering events through webhooks.
+This is a Node.js application that provides webhook integration for REST Hook. It allows subscribing, unsubscribing, and triggering events through webhooks.
 
 Requirements
 ------------
