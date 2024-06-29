@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const Webhook = require('../models/Webhook');
+const Webhook = require('../models/webhook');
 const axios = require('axios');
 
 // Webhook endpoint to receive data
